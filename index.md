@@ -33,6 +33,9 @@ We took inspiration (and sometimes slides / figures) from the following resource
 
 * More TensorFlow examples can be found at [dl_tutorial](https://github.com/oduerr/dl_tutorial/tree/master/tensorflow/) 
 
+* Math concept videos at [3blue1brown](https://www.youtube.com/@3blue1brown)
+
+
 <!---  * Another applied course in DL: [TensorFlow and Deep Learning without a PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd) --->
 
 ## Dates 
@@ -67,8 +70,10 @@ The course is split in 8 sessions, each 4 lectures long.
 - Day 2
   - Topics: Looking back at fcNN, DL framework Keras, convolutional neural networks (CNN)
   - Slides:  [02_fcNN_CNN](https://github.com/tensorchiefs/dl_course_2024/blob/master/slides/02_fcNN_CNN.pdf)
-  - Additional Material: 
+  - Additional Material:
+    - [What is a Kernel?](https://setosa.io/ev/image-kernels/)
     - [Understanding convolution](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+    - [Convolution Video](https://www.youtube.com/watch?v=KuXjwB4LzSA&t=697s)
   - Exercises and Homework: 
     - [02_fcnn_with_banknote](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/02_fcnn_with_banknote.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/02_fcnn_with_banknote.ipynb)
     - [03_fcnn_mnist](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/03_fcnn_mnist.ipynb)  [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/03_fcnn_mnist.ipynb)
