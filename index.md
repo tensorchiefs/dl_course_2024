@@ -20,7 +20,7 @@ Examples for projects from previous versions the DL course:
   [2023](https://docs.google.com/spreadsheets/d/1d1y-Qf9OW7Vg30WzWwCckYPBMyRcg-d-qLG_lA0Z5jk/edit#gid=0)
 
 
-**Fill in the Title and the Topic of your Projects until End of Week 5 [here](https://docs.google.com/spreadsheets/d/1d1y-Qf9OW7Vg30WzWwCckYPBMyRcg-d-qLG_lA0Z5jk/edit?usp=sharing)**
+**Fill in the Title and the Topic of your Projects until End of Week 5 [here](https://docs.google.com/spreadsheets/d/1drTY6DA2R5QQYk8mRvcPFx-lW98aOGLgppkMMweHZPM/edit?usp=sharing)**
 
 ## Other resources 
 We took inspiration (and sometimes slides / figures) from the following resources.
