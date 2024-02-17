@@ -5,7 +5,7 @@ This course in deep learning focuses on practical aspects of deep learning. We t
 
 For doing the hands-on part we recommend to use google colab <a href="https://colab.research.google.com/"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="20"></a> (you might need a google account) an internet connections is also needed. If you want to do it without internet connection on your own computer you can install anaconda ([details and installation instruction](anaconda.md)). Please note that we are not experts in anaconda and thus can only give limited support.
 
-To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
+To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md).  
 
 ## Info for the projects
 You can join together in small groups and choose a topic for your DL project. You should prepare a poster and a spotlight talk (5 minutes) which you will present on the last course day. To get some hints how to create a good poster you can check out the links that are provided in <a href="https://www.dropbox.com/s/u1f6mqk4pc3uhxe/poster-guidelines.pdf?dl=1">poster_guidelines.pdf</a> 
