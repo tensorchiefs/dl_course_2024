@@ -68,7 +68,7 @@ The course is split in 8 sessions, each 4 lectures long.
 
 
 - Day 2
-  - Topics: Looking back at fcNN, DL framework Keras, convolutional neural networks (CNN)
+  - Topics: Looking back at fcNN, convolutional neural networks (CNN)
   - Slides:  [02_fcNN_CNN](https://github.com/tensorchiefs/dl_course_2024/blob/master/slides/02_fcNN_CNN.pdf)
   - Additional Material:
     - [What is a Kernel?](https://setosa.io/ev/image-kernels/)
@@ -79,6 +79,7 @@ The course is split in 8 sessions, each 4 lectures long.
     - [03_fcnn_mnist](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/03_fcnn_mnist.ipynb)  [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/03_fcnn_mnist.ipynb)
     - [04_fcnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/04_fcnn_mnist_shuffled.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/04_fcnn_mnist_shuffled.ipynb) 
     - [05_cnn_edge_lover](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/05_cnn_edge_lover.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/05_cnn_edge_lover.ipynb) 
+    - [06_cnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb)
     
   <!--- auskommentieren  - [07_cifar10_norm](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_norm.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_norm.ipynb)--->
   - Solutions to Exercises: 
@@ -86,19 +87,18 @@ The course is split in 8 sessions, each 4 lectures long.
     - [03_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/03_fcnn_mnist_sol.ipynb), [03_sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/03_fcnn_mnist_sol.ipynb) 
     - [04_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/04_fcnn_mnist_shuffled_sol.ipynb), [04_sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/04_fcnn_mnist_shuffled_sol.ipynb) 
     - [05_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/05_cnn_edge_lover_sol.ipynb), [05_sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/05_cnn_edge_lover_sol.ipynb) 
+    - [06_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled_sol.ipynb)
    
 
 - Day 3
   - Topics: Convolutional neural networks (CNN) 
   - Slides: [03_CNN](https://github.com/tensorchiefs/dl_course_2024/blob/master/slides/03_CNN.pdf)
   - Exercises and Homework:  
-    - [06_cnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb)
     - [07_cifar10_tricks](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_tricks_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_tricks_sol.ipynb)
 	- [08_classification_transfer_learning_few_labels](https://github.com/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learining_few_labels.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learining_few_labels.ipynb) 
     
   <!--- auskommentieren	- [09_1DConv](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv.ipynb) --->
-  - Solutions to Exercises:  
-    - [06_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled_sol.ipynb) 
+  - Solutions to Exercises:   
 	- [08_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/08_classification_transfer_learning_few_labels_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learning_few_labels_sol.ipynb)
 <!--- auskommentieren	- [09_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv_sol.ipynb) --->
 
