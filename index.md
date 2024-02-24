@@ -75,53 +75,53 @@ The course is split in 8 sessions, each 4 lectures long.
     - [Understanding convolution](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
     - [Convolution Video](https://www.youtube.com/watch?v=KuXjwB4LzSA&t=697s)
   - Exercises and Homework: 
-    - [02_fcnn_with_banknote](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/02_fcnn_with_banknote.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/02_fcnn_with_banknote.ipynb)
-    - [03_fcnn_mnist](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/03_fcnn_mnist.ipynb)  [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/03_fcnn_mnist.ipynb)
-    - [04_fcnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/04_fcnn_mnist_shuffled.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/04_fcnn_mnist_shuffled.ipynb) 
-    - [05_cnn_edge_lover](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/05_cnn_edge_lover.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/05_cnn_edge_lover.ipynb) 
-    - [06_cnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb)
+    - [02_fcnn_with_banknote](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/02_fcnn_with_banknote.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/02_fcnn_with_banknote.ipynb)
+    - [03_fcnn_mnist](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/03_fcnn_mnist.ipynb),  [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/03_fcnn_mnist.ipynb)
+    - [04_fcnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/04_fcnn_mnist_shuffled.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/04_fcnn_mnist_shuffled.ipynb) 
+    - [05_cnn_edge_lover](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/05_cnn_edge_lover.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/05_cnn_edge_lover.ipynb) 
+    - [06_cnn_mnist_shuffled](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled.ipynb)
     
-  <!--- auskommentieren  - [07_cifar10_norm](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_norm.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_norm.ipynb)--->
+  <!--- auskommentieren  - [07_cifar10_norm](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_norm.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_norm.ipynb)--->
   - Solutions to Exercises: 
     - [02_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/02_fcnn_with_banknote_sol.ipynb), [02_sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/02_fcnn_with_banknote_sol.ipynb)
     - [03_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/03_fcnn_mnist_sol.ipynb), [03_sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/03_fcnn_mnist_sol.ipynb) 
     - [04_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/04_fcnn_mnist_shuffled_sol.ipynb), [04_sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/04_fcnn_mnist_shuffled_sol.ipynb) 
     - [05_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/05_cnn_edge_lover_sol.ipynb), [05_sol_colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/05_cnn_edge_lover_sol.ipynb) 
-    - [06_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled_sol.ipynb)
+    - [06_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/06_cnn_mnist_shuffled_sol.ipynb)
    
 
 - Day 3
   - Topics: Convolutional neural networks (CNN) 
   - Slides: [03_CNN](https://github.com/tensorchiefs/dl_course_2024/blob/master/slides/03_CNN.pdf)
   - Exercises and Homework:  
-    - [07_cifar10_tricks](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_tricks_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_tricks_sol.ipynb)
+    - [07_cifar10_tricks](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_tricks_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_tricks_sol.ipynb)
 	- [08_classification_transfer_learning_few_labels](https://github.com/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learining_few_labels.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learining_few_labels.ipynb) 
     
-  <!--- auskommentieren	- [09_1DConv](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv.ipynb) --->
+  <!--- auskommentieren	- [09_1DConv](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv.ipynb) --->
   - Solutions to Exercises:   
 	- [08_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/08_classification_transfer_learning_few_labels_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learning_few_labels_sol.ipynb)
-<!--- auskommentieren	- [09_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv_sol.ipynb) --->
+<!--- auskommentieren	- [09_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv_sol.ipynb) --->
 
 
 - Day 4
   - Topics: Details Backpropagation in DL, MaxLike-Principle
   - Slides: [04_Training_Details](https://github.com/tensorchiefs/dl_course_2024/blob/master/slides/04_Details.pdf)
   - Exercises and Homework:
-	- Backprop. linear regression eager [10_linreg_tensorflow](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/10_linreg_tensorflow.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/10_linreg_tensorflow.ipynb) 	
-	- Optional Backprop static graph[11_backpropagation](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/11_backpropagation.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/11_backpropagation.ipynb)
-	- Simple Max Like [12_maxlike](https://github.com/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb)
-	- Max Like MNIST [12b_mnist_loglike](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/12b_mnist_loglike.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/12b_mnist_loglike.ipynb)
+	- Backprop. linear regression eager [10_linreg_tensorflow](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/10_linreg_tensorflow.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/10_linreg_tensorflow.ipynb) 	
+	- Optional Backprop static graph[11_backpropagation](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/11_backpropagation.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/11_backpropagation.ipynb)
+	- Simple Max Like [12_maxlike](https://github.com/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb)
+	- Max Like MNIST [12b_mnist_loglike](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/12b_mnist_loglike.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/12b_mnist_loglike.ipynb)
 
 
 - Day 5
   - Topics: Probabilistic Prediction Models
   - Slides:  [05_Probabilistic_Models](https://github.com/tensorchiefs/dl_course_2024/blob/master/slides/05_Probabilistic_Modeling.pdf)
   - Exercises and Homework:  
-	- Linear Regression with Tensorflow Probability [13_linreg_with_tfp](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/13_linreg_with_tfp.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/13_linreg_with_tfp.ipynb)  
-	- Poisson Regression with Tensorflow Probability [14_poisreg_with_tfp](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp.ipynb)  
+	- Linear Regression with Tensorflow Probability [13_linreg_with_tfp](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/13_linreg_with_tfp.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/13_linreg_with_tfp.ipynb)  
+	- Poisson Regression with Tensorflow Probability [14_poisreg_with_tfp](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp.ipynb)  
   - Solutions to Exercises:  
-	- [13_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/13_linreg_with_tfp_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/13_linreg_with_tfp_sol.ipynb)   	
-	- [14_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp_sol.ipynb)   
+	- [13_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/13_linreg_with_tfp_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/13_linreg_with_tfp_sol.ipynb)   	
+	- [14_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp_sol.ipynb)   
 
 
 - Day 6
@@ -131,16 +131,16 @@ The course is split in 8 sessions, each 4 lectures long.
 	- Regression with Tensorflow Probability on Images [15_faces_regression](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression.ipynb)  
 	- Visualization of Network Decisions with GradCam [16_elephant_in_the_room](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room.ipynb)  
   - Solutions to Exercises:  
-	- [15_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression_sol.ipynb)   	
-	- [16_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room_sol.ipynb)  
+	- [15_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression_sol.ipynb)   	
+	- [16_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room_sol.ipynb)  
 
 
 - Day 7
   - Topics: Ensembling and Bayes
   - Slides: [07_ensembling_bayes](https://github.com/tensorchiefs/dl_course_2024/blob/master/slides/07_ensembling_bayes.pdf) 
   - Exercises and Homework:  
-  	- Classification with Ensembles and Bayes [17_cifar10_ensemble_bayes](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/17_cifar10_classification_mc_and_vi_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/17_cifar10_classification_mc_and_vi_sol.ipynb)  
-	- Bayesian Model for Coin Toss [18_bayesian_coin_toss](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_03.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_03.ipynb)
+  	- Classification with Ensembles and Bayes [17_cifar10_ensemble_bayes](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/17_cifar10_classification_mc_and_vi_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/17_cifar10_classification_mc_and_vi_sol.ipynb)  
+	- Bayesian Model for Coin Toss [18_bayesian_coin_toss](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_03.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_03.ipynb)
 
 - Day 8
   - Topics: Bayes (continued), Projects
