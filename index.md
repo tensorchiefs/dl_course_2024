@@ -95,11 +95,11 @@ The course is split in 8 sessions, each 4 lectures long.
   - Slides: [03_CNN](https://github.com/tensorchiefs/dl_course_2024/blob/master/slides/03_CNN.pdf)
   - Exercises and Homework:  
     - [07_cifar10_tricks](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_tricks_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_tricks_sol.ipynb)
-	- [08_classification_transfer_learning_few_labels](https://github.com/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learining_few_labels.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learining_few_labels.ipynb) 
+	- [08_classification_transfer_learning_few_labels](https://github.com/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learning_few_labels.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learning_few_labels.ipynb) 
     
   <!--- auskommentieren	- [09_1DConv](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv.ipynb) --->
   - Solutions to Exercises:   
-	- [08_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/08_classification_transfer_learning_few_labels_sol.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learning_few_labels_sol.ipynb)
+	- [08_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/08_classification_transfer_learning_few_labels_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learning_few_labels_sol.ipynb)
 <!--- auskommentieren	- [09_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv_sol.ipynb) --->
 
 
@@ -128,8 +128,8 @@ The course is split in 8 sessions, each 4 lectures long.
   - Topics: Flexible CPDs
   - Slides: [06_flexible_CPDs](https://github.com/tensorchiefs/dl_course_2024/blob/master/slides/06_flexible_CPDs.pdf) 
   - Exercises and Homework:  
-	- Regression with Tensorflow Probability on Images [15_faces_regression](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression.ipynb)  
-	- Visualization of Network Decisions with GradCam [16_elephant_in_the_room](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room.ipynb)  
+	- Regression with Tensorflow Probability on Images [15_faces_regression](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression.ipynb)  
+	- Visualization of Network Decisions with GradCam [16_elephant_in_the_room](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room.ipynb)  
   - Solutions to Exercises:  
 	- [15_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression_sol.ipynb)   	
 	- [16_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room_sol.ipynb)  
