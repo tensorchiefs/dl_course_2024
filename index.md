@@ -95,8 +95,9 @@ The course is split in 8 sessions, each 4 lectures long.
   - Slides: [03_CNN](https://github.com/tensorchiefs/dl_course_2024/blob/master/slides/03_CNN.pdf)
   - Exercises and Homework:  
     - [07_cifar10_tricks](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_tricks_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/07_cifar10_tricks_sol.ipynb)
-	- [08_classification_transfer_learning_few_labels](https://github.com/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learning_few_labels.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learning_few_labels.ipynb) 
-	- [08_Grad_CAM_activation_visualization](https://github.com/tensorchiefs/dl_course_2024/blob/main/notebooks/08_Grad_CAM_activation_visualization.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/main/notebooks/08_Grad_CAM_activation_visualization.ipynb)     
+	- [08_classification_transfer_learning_few_labels](https://github.com/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learning_few_labels.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learning_few_labels.ipynb) 
+	- [08_Grad_CAM_activation_visualization](https://github.com/tensorchiefs/dl_course_2024/blob/main/notebooks/08_Grad_CAM_activation_visualization.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/main/notebooks/08_Grad_CAM_activation_visualization.ipynb)
+  -    
   <!--- auskommentieren	- [09_1DConv](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/09_1DConv.ipynb) --->
   - Solutions to Exercises:   
 	- [08_sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/08_classification_transfer_learning_few_labels_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/main/notebooks/08_classification_transfer_learning_few_labels_sol.ipynb)
