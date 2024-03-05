@@ -19,6 +19,7 @@ Examples for projects from previous versions the DL course:
   [2022](https://docs.google.com/spreadsheets/d/1TZf5hKekzOlBC7J0-EAltGOMTuZyrDhHu3ANve0q6H4/edit#gid=0)
   [2023](https://docs.google.com/spreadsheets/d/1d1y-Qf9OW7Vg30WzWwCckYPBMyRcg-d-qLG_lA0Z5jk/edit#gid=0)
 
+Open Datasets: [papers with code](https://paperswithcode.com/datasets), [kaggle](https://www.kaggle.com/datasets)
 
 **Fill in the Title and the Topic of your Projects until End of Week 5 [here](https://docs.google.com/spreadsheets/d/1drTY6DA2R5QQYk8mRvcPFx-lW98aOGLgppkMMweHZPM/edit?usp=sharing)**
 
