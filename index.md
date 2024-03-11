@@ -112,7 +112,8 @@ The course is split in 8 sessions, each 4 lectures long.
   - Exercises and Homework:
 	- Backprop. linear regression eager [10_linreg_tensorflow](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/10_linreg_tensorflow.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/10_linreg_tensorflow.ipynb) 	
 	- Optional Backprop static graph[11_backpropagation](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/11_backpropagation.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/11_backpropagation.ipynb)
-	- Simple Max Like [12_maxlike](https://github.com/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_04/nb_ch04_01.ipynb)
+	- Simple Max Like [12_maxlike](https://github.com/tensorchiefs/dl_book/blob/master/12_maxlike.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/12_maxlike.ipynb)
+  	- Numerical Stability [12_numerical,stability](https://github.com/tensorchiefs/dl_book/blob/master/12_maxlike_numerical_stability.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/12_maxlike_numerical_stability.ipynb)
 	- Max Like MNIST [12b_mnist_loglike](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/12b_mnist_loglike.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/12b_mnist_loglike.ipynb)
 
 
