@@ -23,9 +23,7 @@ Examples for projects from previous versions the DL course:
 
 Open Datasets: [papers with code](https://paperswithcode.com/datasets), [kaggle](https://www.kaggle.com/datasets)
 
-Hints:
- - [Upload data to colab](https://colab.research.google.com/notebooks/io.ipynb) 
- - [keras with your own images](https://keras.io/api/data_loading/)
+Hints: [Upload data to colab](https://colab.research.google.com/notebooks/io.ipynb) , [keras with your own images](https://keras.io/api/data_loading/)
 
  
 **Fill in the Title and the Topic of your Projects until End of Week 5 [here](https://docs.google.com/spreadsheets/d/1drTY6DA2R5QQYk8mRvcPFx-lW98aOGLgppkMMweHZPM/edit?usp=sharing)**
