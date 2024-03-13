@@ -12,6 +12,8 @@ You can join together in small groups and choose a topic for your DL project. Yo
 
 If you need free GPU resources, we might want to follow the [instructions how to use google colab](co.md).  
 
+
+
 Examples for projects from previous versions the DL course:
   [2018, 2019](projects.md)
   [2020](https://docs.google.com/spreadsheets/d/1NXinRQMifg_QNQs1fyn5HeiZNRnTGnIy1W7-ij-jQhg/edit?usp=sharing)
@@ -21,6 +23,11 @@ Examples for projects from previous versions the DL course:
 
 Open Datasets: [papers with code](https://paperswithcode.com/datasets), [kaggle](https://www.kaggle.com/datasets)
 
+Hints:
+ - [Upload data to colab](https://colab.research.google.com/notebooks/io.ipynb) 
+ - [keras with your own images](https://keras.io/api/data_loading/)
+
+ 
 **Fill in the Title and the Topic of your Projects until End of Week 5 [here](https://docs.google.com/spreadsheets/d/1drTY6DA2R5QQYk8mRvcPFx-lW98aOGLgppkMMweHZPM/edit?usp=sharing)**
 
 ## Other resources 
