@@ -142,7 +142,7 @@ The course is split in 8 sessions, each 4 lectures long.
 	- Visualization of Network Decisions with GradCam [16_elephant_in_the_room](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room.ipynb)  
   - Solutions to Exercises:  
 	- [15_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression_sol.ipynb)   	
-	- [16_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/16_elephant_in_the_room_sol.ipynb)  
+	- [16_Sol]([chapter_07/nb_ch07_01.ipynb](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_01.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_01.ipynb)  
 
 
 - Day 7
