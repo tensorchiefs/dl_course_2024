@@ -139,7 +139,7 @@ The course is split in 8 sessions, each 4 lectures long.
   - Slides: [06_flexible_CPDs](https://github.com/tensorchiefs/dl_course_2024/blob/master/slides/06_flexible_CPDs.pdf) 
   - Exercises and Homework:  
 	- Regression with Tensorflow Probability on Images [15_faces_regression](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression.ipynb)  
-	- Visualization of Network Decisions with GradCam [16_elephant_in_the_room](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_01.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_01.ipynb)  
+	- Pretrained Network [16_elephant_in_the_room](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_01.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_01.ipynb)  
   - Solutions to Exercises:  
 	- [15_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression_sol.ipynb)   	
 
