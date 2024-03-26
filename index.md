@@ -128,19 +128,19 @@ The course is split in 8 sessions, each 4 lectures long.
 	- Max Like MNIST [12b_mnist_loglike](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/12b_mnist_loglike.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/12b_mnist_loglike.ipynb)
 
 	- Linear Regression with Tensorflow Probability [13_linreg_with_tfp](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/13_linreg_with_tfp.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/13_linreg_with_tfp.ipynb)  
-	- Poisson Regression with Tensorflow Probability [14_poisreg_with_tfp](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp.ipynb)  
   - Solutions to Exercises:  
 	- [13_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/13_linreg_with_tfp_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/13_linreg_with_tfp_sol.ipynb)   	
-	- [14_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp_sol.ipynb)   
 
 
 - Day 6
   - Topics: Flexible CPDs
   - Slides: [06_flexible_CPDs](https://github.com/tensorchiefs/dl_course_2024/blob/master/slides/06_flexible_CPDs.pdf) 
   - Exercises and Homework:  
+  - Poisson Regression with Tensorflow Probability [14_poisreg_with_tfp](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp.ipynb)  
 	- Regression with Tensorflow Probability on Images [15_faces_regression](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression.ipynb)  
 	- Pretrained Network [16_elephant_in_the_room](https://github.com/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_01.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_book/blob/master/chapter_07/nb_ch07_01.ipynb)  
   - Solutions to Exercises:  
+  	- [14_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/14_poisreg_with_tfp_sol.ipynb)   
 	- [15_Sol](https://github.com/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression_sol.ipynb), [colab](https://colab.research.google.com/github/tensorchiefs/dl_course_2024/blob/master/notebooks/15_faces_regression_sol.ipynb)   	
 
 
