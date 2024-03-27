@@ -1,0 +1,10 @@
+00_Checking_Correct_Installation.ipynb
+- other version of tf 
+
+01_simple_forward_pass_sol
+- spelling foreaard pass
+- attributes in notebooks e.g. def plotModel(predict:callable, title:str)-> None:
+
+
+03_fcnn_mnist_sol.ipynb
+- confusion matrix with sklaern
